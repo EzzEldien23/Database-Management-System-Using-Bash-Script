@@ -60,7 +60,7 @@ DBMS/
 │   │
 │   └── Database2/
 │
-└── main.sh
+└── mainScreen.sh
 ```
 
 ---
@@ -85,7 +85,7 @@ The system validates:
 ## Run The Project
 
 ```bash
-chmod +x main.sh
+chmod +x mainScreen.sh
 ./mainScreen.sh
 ```
 
